@@ -1,4 +1,4 @@
-name: Build-Test-For-Actions
+name: Build Test For Actions
 on:
   push:
     branches:
