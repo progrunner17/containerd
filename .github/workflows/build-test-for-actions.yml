@@ -1,4 +1,4 @@
-name: CI
+name: Build-Test-For-Actions
 on:
   push:
     branches:
