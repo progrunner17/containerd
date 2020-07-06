@@ -181,7 +181,7 @@ jobs:
     name: Binaries
     runs-on: ${{ matrix.os }}
     timeout-minutes: 10
-    needs: [project, linters, protos, man]
+    needs: [project, linters, protos]
 
     strategy:
       matrix:
